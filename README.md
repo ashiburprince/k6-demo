@@ -62,7 +62,3 @@ This will execute the smoke, load, and stress tests in sequence.
 ### Configuration
 
 Configuration settings for different environments can be found in `src/config/environment.js`. Adjust the base URL and authentication tokens as needed.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
